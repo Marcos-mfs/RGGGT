@@ -1,4 +1,45 @@
 #EXTM3U
+#EXTINF:0 group-title="CN",CCTV 1
+http://198.204.228.26/live/cctv1hd.m3u8
+#EXTINF:0 group-title="CN",CCTV 2
+http://198.204.228.26/live/cctv2hd.m3u8
+#EXTINF:0 group-title="CN",CCTV 3
+http://198.204.228.26/live/cctv3hd.m3u8
+#EXTINF:0 group-title="CN",CCTV 4
+http://198.204.228.26/live/cctv4hd.m3u8
+#EXTINF:0 group-title="CN",CCTV 5
+http://198.204.228.26/live/cctv5hd.m3u8
+#EXTINF:0 group-title="CN",CCTV 6
+http://198.204.228.26/live/cctv6hd.m3u8
+#EXTINF:0 group-title="CN",CCTV 7
+http://198.204.228.26/live/cctv7hd.m3u8
+#EXTINF:0 group-title="CN",CCTV 8
+http://198.204.228.26/live/cctv8hd.m3u8
+#EXTINF:0 group-title="CN",CCTV 9
+http://198.204.228.26/live/cctv9hd.m3u8
+#EXTINF:0 group-title="CN",CCTV 10
+http://198.204.228.26/live/cctv10hd.m3u8
+#EXTINF:0 group-title="CN",CCTV 11
+http://198.204.228.26/live/cctv11hd.m3u8
+#EXTINF:0 group-title="CN",CCTV 12
+http://198.204.228.26/live/cctv12hd.m3u8
+#EXTINF:0 group-title="CN",CCTV 13
+http://198.204.228.26/live/cctv13hd.m3u8
+#EXTINF:0 group-title="CN",CCTV 14
+http://198.204.228.26/live/cctv14hd.m3u8
+#EXTINF:0 group-title="CN",CCTV 15
+http://198.204.228.26/live/cctv15hd.m3u8
+#EXTINF:0 group-title="CN",CCTV 16
+http://198.204.228.26/live/cctv16hd.m3u8
+#EXTINF:0 group-title="CN",CCTV 17
+http://198.204.228.26/live/cctv17hd.m3u8
+#EXTINF:0 group-title="CN",CCTV 5+
+http://198.204.228.26/live/cctv5p.m3u8
+#EXTINF:0 group-title="CN",CCTV 4K
+http://198.204.228.26/live/cctv4k.m3u8
+#EXTINF:0 group-title="CN",CCTV 8K
+http://198.204.228.26/live/cctv8k.m3u8
+
 #EXTINF:6,NBS
 #EXTVLCOPT:network-caching=1000
 https://media.joycorp.co.kr:4443/live/live_720p/playlist.m3u8
@@ -26,6 +67,259 @@ https://backup.760515.xyz/playlist/KBS2-playlist.m3u8
 #EXTINF:0,CCTV 4K
 https://live-play-hls.cctvnews.cctv.com/CCTVChannel/channel_cctv4k_mbd.m3u8?auth_key=1792497600-1-b59134a2ead43d7f783f943c8f535e7bb80c5169575b2e8efcd5b3ddea21b41c-9166f0f4f2aa715476756b1af41ef29f&yid=b59134a2ead43d7f783f943c8f535e7bb80c5169575b2e8efcd5b3ddea21b41c
 
+#EXTINF:0 group-title="Канада | Canada" tvg-id="2347" tvg-logo="http://epg.one/img2/2347.png" tvg-rec="0",A&E CA
+https://tinyurl.com/aleks-u-romki-40/6419/index.m3u8
+#EXTINF:0 group-title="Канада | Canada" tvg-id="3566" tvg-logo="http://epg.one/img2/3566.png" tvg-rec="0",CBC St. John's
+https://tinyurl.com/aleks-u-romki-40/6422/index.m3u8
+#EXTINF:0 group-title="Канада | Canada" tvg-id="3567" tvg-logo="http://epg.one/img2/3567.png" tvg-rec="0",CTV Two Atlantic CA
+https://tinyurl.com/aleks-u-romki-40/6423/index.m3u8
+#EXTINF:0 group-title="Канада | Canada" tvg-id="3568" tvg-logo="http://epg.one/img2/3568.png" tvg-rec="0",NFL Network HD CA
+https://tinyurl.com/aleks-u-romki-40/6424/index.m3u8
+#EXTINF:0 group-title="Канада | Canada" tvg-id="3569" tvg-logo="http://epg.one/img2/3569.png" tvg-rec="0",ICI RDI HD CA
+https://tinyurl.com/aleks-u-romki-40/6425/index.m3u8
+#EXTINF:0 group-title="Канада | Canada" tvg-id="3570" tvg-logo="http://epg.one/img2/3570.png" tvg-rec="0",TV Ontario HD CA
+https://tinyurl.com/aleks-u-romki-40/6426/index.m3u8
+#EXTINF:0 group-title="Канада | Canada" tvg-id="3571" tvg-logo="http://epg.one/img2/3571.png" tvg-rec="0",Global Toronto HD CA
+https://tinyurl.com/aleks-u-romki-40/6427/index.m3u8
+#EXTINF:0 group-title="Канада | Canada" tvg-id="3572" tvg-logo="http://epg.one/img2/3572.png" tvg-rec="0",OMNI.1 HD CA
+https://tinyurl.com/aleks-u-romki-40/6428/index.m3u8
+#EXTINF:0 group-title="Канада | Canada" tvg-id="3573" tvg-logo="http://epg.one/img2/3573.png" tvg-rec="0",City TV Toronto HD CA
+https://tinyurl.com/aleks-u-romki-40/6429/index.m3u8
+#EXTINF:0 group-title="Канада | Canada" tvg-id="3574" tvg-logo="http://epg.one/img2/3574.png" tvg-rec="0",Yes TV HD CA
+https://tinyurl.com/aleks-u-romki-40/6431/index.m3u8
+#EXTINF:0 group-title="Канада | Canada" tvg-id="3575" tvg-logo="http://epg.one/img2/3575.png" tvg-rec="0",CHCH HD CA
+https://tinyurl.com/aleks-u-romki-40/6432/index.m3u8
+#EXTINF:0 group-title="Канада | Canada" tvg-id="3576" tvg-logo="http://epg.one/img2/3576.png" tvg-rec="0",TFO HD CA
+https://tinyurl.com/aleks-u-romki-40/6433/index.m3u8
+#EXTINF:0 group-title="Канада | Canada" tvg-id="3577" tvg-logo="http://epg.one/img2/3577.png" tvg-rec="0",OMNI.2 HD CA
+https://tinyurl.com/aleks-u-romki-40/6434/index.m3u8
+#EXTINF:0 group-title="Канада | Canada" tvg-id="3578" tvg-logo="http://epg.one/img2/3578.png" tvg-rec="0",FX HD CA
+https://tinyurl.com/aleks-u-romki-40/6435/index.m3u8
+#EXTINF:0 group-title="Канада | Canada" tvg-id="3580" tvg-logo="http://epg.one/img2/3580.png" tvg-rec="0",TCTV2 CA
+https://tinyurl.com/aleks-u-romki-40/6437/index.m3u8
+#EXTINF:0 group-title="Канада | Canada" tvg-id="3581" tvg-logo="http://epg.one/img2/3581.png" tvg-rec="0",Sportsnet ONE HD CA
+https://tinyurl.com/aleks-u-romki-40/6438/index.m3u8
+#EXTINF:0 group-title="Канада | Canada" tvg-id="3582" tvg-logo="http://epg.one/img2/3582.png" tvg-rec="0",Sportsnet Ontario HD CA
+https://tinyurl.com/aleks-u-romki-40/6439/index.m3u8
+#EXTINF:0 group-title="Канада | Canada" tvg-id="3584" tvg-logo="http://epg.one/img2/3584.png" tvg-rec="0",YTV HD CA
+https://tinyurl.com/aleks-u-romki-40/6441/index.m3u8
+#EXTINF:0 group-title="Канада | Canada" tvg-id="3585" tvg-logo="http://epg.one/img2/3585.png" tvg-rec="0",CBC News Network HD CA
+https://tinyurl.com/aleks-u-romki-40/6442/index.m3u8
+#EXTINF:0 group-title="Канада | Canada" tvg-id="3586" tvg-logo="http://epg.one/img2/3586.png" tvg-rec="0",W Network HD CA
+https://tinyurl.com/aleks-u-romki-40/6443/index.m3u8
+#EXTINF:0 group-title="Канада | Canada" tvg-id="3588" tvg-logo="http://epg.one/img2/3588.png" tvg-rec="0",TSN 4 HD CA
+https://tinyurl.com/aleks-u-romki-40/6445/index.m3u8
+#EXTINF:0 group-title="Канада | Canada" tvg-id="3589" tvg-logo="http://epg.one/img2/3589.png" tvg-rec="0",TLC HD CA
+https://tinyurl.com/aleks-u-romki-40/6446/index.m3u8
+#EXTINF:0 group-title="Канада | Canada" tvg-id="3590" tvg-logo="http://epg.one/img2/3590.png" tvg-rec="0",OLN HD CA
+https://tinyurl.com/aleks-u-romki-40/6447/index.m3u8
+#EXTINF:0 group-title="Канада | Canada" tvg-id="3591" tvg-logo="http://epg.one/img2/3591.png" tvg-rec="0",CMT Canada CA
+https://tinyurl.com/aleks-u-romki-40/6448/index.m3u8
+#EXTINF:0 group-title="Канада | Canada" tvg-id="3592" tvg-logo="http://epg.one/img2/3592.png" tvg-rec="0",Showcase HD CA
+https://tinyurl.com/aleks-u-romki-40/6449/index.m3u8
+#EXTINF:0 group-title="Канада | Canada" tvg-id="3593" tvg-logo="http://epg.one/img2/3593.png" tvg-rec="0",CTV Drama HD CA
+https://tinyurl.com/aleks-u-romki-40/6450/index.m3u8
+#EXTINF:0 group-title="Канада | Canada" tvg-id="3594" tvg-logo="http://epg.one/img2/3594.png" tvg-rec="0",Slice HD CA
+https://tinyurl.com/aleks-u-romki-40/6451/index.m3u8
+#EXTINF:0 group-title="Канада | Canada" tvg-id="3595" tvg-logo="http://epg.one/img2/325.png" tvg-rec="0",Discovery Channel HD CA
+https://tinyurl.com/aleks-u-romki-40/6452/index.m3u8
+#EXTINF:0 group-title="Канада | Canada" tvg-id="3596" tvg-logo="http://epg.one/img2/3596.png" tvg-rec="0",History HD CA
+https://tinyurl.com/aleks-u-romki-40/6453/index.m3u8
+#EXTINF:0 group-title="Канада | Canada" tvg-id="3597" tvg-logo="http://epg.one/img2/3597.png" tvg-rec="0",CTV Comedy HD CA
+https://tinyurl.com/aleks-u-romki-40/6454/index.m3u8
+#EXTINF:0 group-title="Канада | Canada" tvg-id="3598" tvg-logo="http://epg.one/img2/3598.png" tvg-rec="0",Teletoon HD CA
+https://tinyurl.com/aleks-u-romki-40/6455/index.m3u8
+#EXTINF:0 group-title="Канада | Canada" tvg-id="3599" tvg-logo="http://epg.one/img2/3599.png" tvg-rec="0",HGTV HD CA
+https://tinyurl.com/aleks-u-romki-40/6456/index.m3u8
+#EXTINF:0 group-title="Канада | Canada" tvg-id="3600" tvg-logo="http://epg.one/img2/3600.png" tvg-rec="0",Peachtree TV HD CA
+https://tinyurl.com/aleks-u-romki-40/6457/index.m3u8
+#EXTINF:0 group-title="Канада | Canada" tvg-id="3601" tvg-logo="http://epg.one/img2/3601.png" tvg-rec="0",Turner Classic Movies HD CA
+https://tinyurl.com/aleks-u-romki-40/6458/index.m3u8
+#EXTINF:0 group-title="Канада | Canada" tvg-id="3602" tvg-logo="http://epg.one/img2/3602.png" tvg-rec="0",CTV SCI-FI HD CA
+https://tinyurl.com/aleks-u-romki-40/6459/index.m3u8
+#EXTINF:0 group-title="Канада | Canada" tvg-id="3603" tvg-logo="http://epg.one/img2/3603.png" tvg-rec="0",Family HD CA
+https://tinyurl.com/aleks-u-romki-40/6460/index.m3u8
+#EXTINF:0 group-title="Канада | Canada" tvg-id="3604" tvg-logo="http://epg.one/img2/3604.png" tvg-rec="0",MTV HD CA
+https://tinyurl.com/aleks-u-romki-40/6461/index.m3u8
+#EXTINF:0 group-title="Канада | Canada" tvg-id="3605" tvg-logo="http://epg.one/img2/3605.png" tvg-rec="0",Sportsnet 360 HD CA
+https://tinyurl.com/aleks-u-romki-40/6462/index.m3u8
+#EXTINF:0 group-title="Канада | Canada" tvg-id="3606" tvg-logo="http://epg.one/img2/3606.png" tvg-rec="0",DTour HD CA
+https://tinyurl.com/aleks-u-romki-40/6463/index.m3u8
+#EXTINF:0 group-title="Канада | Canada" tvg-id="3607" tvg-logo="http://epg.one/img2/3607.png" tvg-rec="0",Food Network HD CA
+https://tinyurl.com/aleks-u-romki-40/6464/index.m3u8
+#EXTINF:0 group-title="Канада | Canada" tvg-id="3608" tvg-logo="http://epg.one/img2/3608.png" tvg-rec="0",BNN Bloomberg HD CA
+https://tinyurl.com/aleks-u-romki-40/6465/index.m3u8
+#EXTINF:0 group-title="Канада | Canada" tvg-id="3609" tvg-logo="http://epg.one/img2/3609.png" tvg-rec="0",ABC Spark CA
+https://tinyurl.com/aleks-u-romki-40/6466/index.m3u8
+#EXTINF:0 group-title="Канада | Canada" tvg-id="3610" tvg-logo="http://epg.one/img2/3610.png" tvg-rec="0",Vision TV CA
+https://tinyurl.com/aleks-u-romki-40/6467/index.m3u8
+#EXTINF:0 group-title="Канада | Canada" tvg-id="3611" tvg-logo="http://epg.one/img2/3611.png" tvg-rec="0",CTV News Channel HD CA
+https://tinyurl.com/aleks-u-romki-40/6468/index.m3u8
+#EXTINF:0 group-title="Канада | Canada" tvg-id="3612" tvg-logo="http://epg.one/img2/3612.png" tvg-rec="0",E! Entertainment HD CA
+https://tinyurl.com/aleks-u-romki-40/6469/index.m3u8
+#EXTINF:0 group-title="Канада | Canada" tvg-id="3613" tvg-logo="http://epg.one/img2/3613.png" tvg-rec="0",FXX HDTV CA
+https://tinyurl.com/aleks-u-romki-40/6470/index.m3u8
+#EXTINF:0 group-title="Канада | Canada" tvg-id="3614" tvg-logo="http://epg.one/img2/3614.png" tvg-rec="0",Treehouse HD CA
+https://tinyurl.com/aleks-u-romki-40/6471/index.m3u8
+#EXTINF:0 group-title="Канада | Canada" tvg-id="3616" tvg-logo="http://epg.one/img2/3616.png" tvg-rec="0",NatGeo Wild HD CA
+https://tinyurl.com/aleks-u-romki-40/6473/index.m3u8
+#EXTINF:0 group-title="Канада | Canada" tvg-id="3617" tvg-logo="http://epg.one/img2/3617.png" tvg-rec="0",Family Jr. HD CA
+https://tinyurl.com/aleks-u-romki-40/6474/index.m3u8
+#EXTINF:0 group-title="Канада | Canada" tvg-id="3618" tvg-logo="http://epg.one/img2/3618.png" tvg-rec="0",OWN HD CA
+https://tinyurl.com/aleks-u-romki-40/6475/index.m3u8
+#EXTINF:0 group-title="Канада | Canada" tvg-id="3619" tvg-logo="http://epg.one/img2/3619.png" tvg-rec="0",Game TV CA
+https://tinyurl.com/aleks-u-romki-40/6476/index.m3u8
+#EXTINF:0 group-title="Канада | Canada" tvg-id="3620" tvg-logo="http://epg.one/img2/3620.png" tvg-rec="0",Sportsnet East HD CA
+https://tinyurl.com/aleks-u-romki-40/6477/index.m3u8
+#EXTINF:0 group-title="Канада | Canada" tvg-id="3621" tvg-logo="http://epg.one/img2/3621.png" tvg-rec="0",Sportsnet West HD CA
+https://tinyurl.com/aleks-u-romki-40/6478/index.m3u8
+#EXTINF:0 group-title="Канада | Canada" tvg-id="3622" tvg-logo="http://epg.one/img2/3622.png" tvg-rec="0",Sportsnet Pacific HD CA
+https://tinyurl.com/aleks-u-romki-40/6479/index.m3u8
+#EXTINF:0 group-title="Канада | Canada" tvg-id="3568" tvg-logo="http://epg.one/img2/3568.png" tvg-rec="0",NFL Network HD CA
+https://tinyurl.com/aleks-u-romki-40/6480/index.m3u8
+#EXTINF:0 group-title="Канада | Canada" tvg-id="3624" tvg-logo="http://epg.one/img2/3624.png" tvg-rec="0",Golf Channel HD CA
+https://tinyurl.com/aleks-u-romki-40/6481/index.m3u8
+#EXTINF:0 group-title="Канада | Canada" tvg-id="3625" tvg-logo="http://epg.one/img2/3625.png" tvg-rec="0",CNBC Canada CA
+https://tinyurl.com/aleks-u-romki-40/6482/index.m3u8
+#EXTINF:0 group-title="Канада | Canada" tvg-id="3626" tvg-logo="http://epg.one/img2/3626.png" tvg-rec="0",Headline News HD CA
+https://tinyurl.com/aleks-u-romki-40/6483/index.m3u8
+#EXTINF:0 group-title="Канада | Canada" tvg-id="3627" tvg-logo="http://epg.one/img2/3627.png" tvg-rec="0",Lifetime HD CA
+https://tinyurl.com/aleks-u-romki-40/6484/index.m3u8
+#EXTINF:0 group-title="Канада | Canada" tvg-id="3628" tvg-logo="http://epg.one/img2/3628.png" tvg-rec="0",NatGeo HD CA
+https://tinyurl.com/aleks-u-romki-40/6485/index.m3u8
+#EXTINF:0 group-title="Канада | Canada" tvg-id="3629" tvg-logo="http://epg.one/img2/3629.png" tvg-rec="0",MovieTime HD CA
+https://tinyurl.com/aleks-u-romki-40/6486/index.m3u8
+#EXTINF:0 group-title="Канада | Canada" tvg-id="3631" tvg-logo="http://epg.one/img2/3631.png" tvg-rec="0",DIY Network CA
+https://tinyurl.com/aleks-u-romki-40/6488/index.m3u8
+#EXTINF:0 group-title="Канада | Canada" tvg-id="3632" tvg-logo="http://epg.one/img2/3632.png" tvg-rec="0",Disney Junior CA
+https://tinyurl.com/aleks-u-romki-40/6489/index.m3u8
+#EXTINF:0 group-title="Канада | Canada" tvg-id="3633" tvg-logo="http://epg.one/img2/3633.png" tvg-rec="0",Disney Channel HD CA
+https://tinyurl.com/aleks-u-romki-40/6490/index.m3u8
+#EXTINF:0 group-title="Канада | Canada" tvg-id="3634" tvg-logo="http://epg.one/img2/3634.png" tvg-rec="0",NBA TV Canada CA
+https://tinyurl.com/aleks-u-romki-40/6491/index.m3u8
+#EXTINF:0 group-title="Канада | Canada" tvg-id="3635" tvg-logo="http://epg.one/img2/3635.png" tvg-rec="0",TSN 2 HD CA
+https://tinyurl.com/aleks-u-romki-40/6492/index.m3u8
+#EXTINF:0 group-title="Канада | Canada" tvg-id="3637" tvg-logo="http://epg.one/img2/3637.png" tvg-rec="0",CPAC English CA
+https://tinyurl.com/aleks-u-romki-40/6494/index.m3u8
+#EXTINF:0 group-title="Канада | Canada" tvg-id="3638" tvg-logo="http://epg.one/img2/3638.png" tvg-rec="0",Makeful CA
+https://tinyurl.com/aleks-u-romki-40/6495/index.m3u8
+#EXTINF:0 group-title="Канада | Canada" tvg-id="3639" tvg-logo="http://epg.one/img2/3639.png" tvg-rec="0",CTV Toronto CA
+https://tinyurl.com/aleks-u-romki-40/6496/index.m3u8
+#EXTINF:0 group-title="Канада | Canada" tvg-id="3640" tvg-logo="http://epg.one/img2/3640.png" tvg-rec="0",CBC Toronto CA
+https://tinyurl.com/aleks-u-romki-40/6497/index.m3u8
+#EXTINF:0 group-title="Канада | Canada" tvg-id="3641" tvg-logo="http://epg.one/img2/3641.png" tvg-rec="0",CNN CA
+https://tinyurl.com/aleks-u-romki-40/6499/index.m3u8
+#EXTINF:0 group-title="Канада | Canada" tvg-id="3642" tvg-logo="http://epg.one/img2/3642.png" tvg-rec="0",HLN CA
+https://tinyurl.com/aleks-u-romki-40/6500/index.m3u8
+#EXTINF:0 group-title="Канада | Canada" tvg-id="3643" tvg-logo="http://epg.one/img2/3643.png" tvg-rec="0",CP 24 CA
+https://tinyurl.com/aleks-u-romki-40/6501/index.m3u8
+#EXTINF:0 group-title="Канада | Canada" tvg-id="3644" tvg-logo="http://epg.one/img2/3644.png" tvg-rec="0",Treehouse TV CA
+https://tinyurl.com/aleks-u-romki-40/6502/index.m3u8
+#EXTINF:0 group-title="Канада | Canada" tvg-id="3645" tvg-logo="http://epg.one/img2/3645.png" tvg-rec="0",Disney XD CA
+https://tinyurl.com/aleks-u-romki-40/6503/index.m3u8
+#EXTINF:0 group-title="Канада | Canada" tvg-id="3646" tvg-logo="http://epg.one/img2/3646.png" tvg-rec="0",Nickelodeon CA
+https://tinyurl.com/aleks-u-romki-40/6504/index.m3u8
+#EXTINF:0 group-title="Канада | Canada" tvg-id="3647" tvg-logo="http://epg.one/img2/3647.png" tvg-rec="0",NBC Buffalo CA
+https://tinyurl.com/aleks-u-romki-40/6505/index.m3u8
+#EXTINF:0 group-title="Канада | Canada" tvg-id="3649" tvg-logo="http://epg.one/img2/3649.png" tvg-rec="0",ABC Buffalo CA
+https://tinyurl.com/aleks-u-romki-40/6507/index.m3u8
+#EXTINF:0 group-title="Канада | Canada" tvg-id="3648" tvg-logo="http://epg.one/img2/3648.png" tvg-rec="0",Crime + Investigation CA
+https://tinyurl.com/aleks-u-romki-40/6506/index.m3u8
+#EXTINF:0 group-title="Канада | Canada" tvg-id="3650" tvg-logo="http://epg.one/img2/3650.png" tvg-rec="0",Cartoon Network CA
+https://tinyurl.com/aleks-u-romki-40/6508/index.m3u8
+#EXTINF:0 group-title="Канада | Canada" tvg-id="3652" tvg-logo="http://epg.one/img2/3652.png" tvg-rec="0",AMC CA
+https://tinyurl.com/aleks-u-romki-40/6510/index.m3u8
+#EXTINF:0 group-title="Канада | Canada" tvg-id="3651" tvg-logo="http://epg.one/img2/3651.png" tvg-rec="0",Turner Classic Movies CA
+https://tinyurl.com/aleks-u-romki-40/6509/index.m3u8
+#EXTINF:0 group-title="Канада | Canada" tvg-id="3653" tvg-logo="http://epg.one/img2/3653.png" tvg-rec="0",TVA Montreal CA
+https://tinyurl.com/aleks-u-romki-40/6511/index.m3u8
+#EXTINF:0 group-title="Канада | Canada" tvg-id="3654" tvg-logo="http://epg.one/img2/3654.png" tvg-rec="0",MLB Network HD CA
+https://tinyurl.com/aleks-u-romki-40/6512/index.m3u8
+#EXTINF:0 group-title="Канада | Canada" tvg-id="3655" tvg-logo="http://epg.one/img2/3655.png" tvg-rec="0",CBC Toronto HD CA
+https://tinyurl.com/aleks-u-romki-40/6513/index.m3u8
+#EXTINF:0 group-title="Канада | Canada" tvg-id="3657" tvg-logo="http://epg.one/img2/3657.png" tvg-rec="0",ICI Radio-Canada Télé CA
+https://tinyurl.com/aleks-u-romki-40/6515/index.m3u8
+#EXTINF:0 group-title="Канада | Canada" tvg-id="1031" tvg-logo="http://epg.one/img2/1031.png" tvg-rec="0",FX
+https://tinyurl.com/aleks-u-romki-40/6516/index.m3u8
+#EXTINF:0 group-title="Канада | Canada" tvg-id="3659" tvg-logo="http://epg.one/img2/3659.png" tvg-rec="0",WNLO Buffalo CA
+https://tinyurl.com/aleks-u-romki-40/6517/index.m3u8
+#EXTINF:0 group-title="Канада | Canada" tvg-id="3660" tvg-logo="http://epg.one/img2/3660.png" tvg-rec="0",PBS Buffalo CA
+https://tinyurl.com/aleks-u-romki-40/6518/index.m3u8
+#EXTINF:0 group-title="Канада | Canada" tvg-id="3661" tvg-logo="http://epg.one/img2/3661.png" tvg-rec="0",FOX Buffalo CA
+https://tinyurl.com/aleks-u-romki-40/6519/index.m3u8
+#EXTINF:0 group-title="Канада | Canada" tvg-id="3662" tvg-logo="http://epg.one/img2/3662.png" tvg-rec="0",History Television CA
+https://tinyurl.com/aleks-u-romki-40/6520/index.m3u8
+#EXTINF:0 group-title="Канада | Canada" tvg-id="3663" tvg-logo="http://epg.one/img2/3663.png" tvg-rec="0",TSN 1 HD CA
+https://tinyurl.com/aleks-u-romki-40/6521/index.m3u8
+#EXTINF:0 group-title="Канада | Canada" tvg-id="3664" tvg-logo="http://epg.one/img2/3664.png" tvg-rec="0",TSN 3 HD CA
+https://tinyurl.com/aleks-u-romki-40/6522/index.m3u8
+#EXTINF:0 group-title="Канада | Canada" tvg-id="3665" tvg-logo="http://epg.one/img2/3665.png" tvg-rec="0",CPAC French CA
+https://tinyurl.com/aleks-u-romki-40/6523/index.m3u8
+#EXTINF:0 group-title="Канада | Canada" tvg-id="3666" tvg-logo="http://epg.one/img2/3666.png" tvg-rec="0",TLC CA
+https://tinyurl.com/aleks-u-romki-40/6524/index.m3u8
+#EXTINF:0 group-title="Канада | Canada" tvg-id="3667" tvg-logo="http://epg.one/img2/3667.png" tvg-rec="0",HGTV Canada CA
+https://tinyurl.com/aleks-u-romki-40/6525/index.m3u8
+#EXTINF:0 group-title="Канада | Canada" tvg-id="3668" tvg-logo="http://epg.one/img2/3668.png" tvg-rec="0",Showcase CA
+https://tinyurl.com/aleks-u-romki-40/6526/index.m3u8
+#EXTINF:0 group-title="Канада | Canada" tvg-id="3669" tvg-logo="http://epg.one/img2/3669.png" tvg-rec="0",Peachtree CA
+https://tinyurl.com/aleks-u-romki-40/6527/index.m3u8
+#EXTINF:0 group-title="Канада | Canada" tvg-id="3672" tvg-logo="http://epg.one/img2/3672.png" tvg-rec="0",ICI RDI CA
+https://tinyurl.com/aleks-u-romki-40/6530/index.m3u8
+#EXTINF:0 group-title="Канада | Canada" tvg-id="3673" tvg-logo="http://epg.one/img2/3673.png" tvg-rec="0",TV5 CA
+https://tinyurl.com/aleks-u-romki-40/6531/index.m3u8
+#EXTINF:0 group-title="Канада | Canada" tvg-id="3674" tvg-logo="http://epg.one/img2/3674.png" tvg-rec="0",Unis TV HD CA
+https://tinyurl.com/aleks-u-romki-40/6532/index.m3u8
+#EXTINF:0 group-title="Канада | Canada" tvg-id="3676" tvg-logo="http://epg.one/img2/3676.png" tvg-rec="0",CBS Buffalo HD CA
+https://tinyurl.com/aleks-u-romki-40/6534/index.m3u8
+#EXTINF:0 group-title="Канада | Canada" tvg-id="3677" tvg-logo="http://epg.one/img2/3677.png" tvg-rec="0",NBC Buffalo HD CA
+https://tinyurl.com/aleks-u-romki-40/6535/index.m3u8
+#EXTINF:0 group-title="Канада | Canada" tvg-id="3679" tvg-logo="http://epg.one/img2/3679.png" tvg-rec="0",FOX Buffalo HD CA
+https://tinyurl.com/aleks-u-romki-40/6537/index.m3u8
+#EXTINF:0 group-title="Канада | Canada" tvg-id="3641" tvg-logo="http://epg.one/img2/3641.png" tvg-rec="0",CNN HD CA
+https://tinyurl.com/aleks-u-romki-40/6538/index.m3u8
+#EXTINF:0 group-title="Канада | Canada" tvg-id="3682" tvg-logo="http://epg.one/img2/3682.png" tvg-rec="0",Adult Swim HD CA
+https://tinyurl.com/aleks-u-romki-40/6540/index.m3u8
+
+EXTINF:0 group-title="ES",La 1
+http://byxeqgvr.megatv.fun/iptv/5KLVA2TCEWQTMK/31826/mpegts
+#EXTINF:0 group-title="ES",La 2
+http://byxeqgvr.megatv.fun/iptv/5KLVA2TCEWQTMK/31829/mpegts
+#EXTINF:0 group-title="ES",Antena 3
+http://byxeqgvr.megatv.fun/iptv/5KLVA2TCEWQTMK/31825/mpegts
+#EXTINF:0 group-title="ES",Cuatro
+http://byxeqgvr.megatv.fun/iptv/5KLVA2TCEWQTMK/31827/mpegts
+#EXTINF:0 group-title="ES",Telecinco
+http://byxeqgvr.megatv.fun/iptv/5KLVA2TCEWQTMK/31828/mpegts
+#EXTINF:0 group-title="ES",LaSexta
+http://byxeqgvr.megatv.fun/iptv/5KLVA2TCEWQTMK/31833/mpegts
+#EXTINF:0 group-title="ES",Nova
+http://byxeqgvr.megatv.fun/iptv/5KLVA2TCEWQTMK/31837/mpegts
+#EXTINF:0 group-title="ES",Calle 13
+http://byxeqgvr.megatv.fun/iptv/5KLVA2TCEWQTMK/31836/mpegts
+#EXTINF:0 group-title="ES",TVE
+http://byxeqgvr.megatv.fun/iptv/5KLVA2TCEWQTMK/31824/mpegts
+#EXTINF:0 group-title="ES",DAZN 1
+http://byxeqgvr.megatv.fun/iptv/5KLVA2TCEWQTMK/31831/mpegts
+#EXTINF:0 group-title="ES",DAZN 2
+http://byxeqgvr.megatv.fun/iptv/5KLVA2TCEWQTMK/31832/mpegts
+#EXTINF:0 group-title="ES",DAZN F1
+http://byxeqgvr.megatv.fun/iptv/5KLVA2TCEWQTMK/31834/mpegts
+#EXTINF:0 group-title="ES",Deportes 2
+http://byxeqgvr.megatv.fun/iptv/5KLVA2TCEWQTMK/31835/mpegts
+#EXTINF:0 group-title="ES",Golf
+http://byxeqgvr.megatv.fun/iptv/5KLVA2TCEWQTMK/31844/mpegts
+#EXTINF:0 group-title="ES",La Liga
+http://byxeqgvr.megatv.fun/iptv/5KLVA2TCEWQTMK/31823/mpegts
+#EXTINF:0 group-title="ES",Baby TV
+http://byxeqgvr.megatv.fun/iptv/5KLVA2TCEWQTMK/31838/mpegts
+#EXTINF:0 group-title="ES",Boing
+http://byxeqgvr.megatv.fun/iptv/5KLVA2TCEWQTMK/31839/mpegts
+#EXTINF:0 group-title="ES",Disney JR
+http://byxeqgvr.megatv.fun/iptv/5KLVA2TCEWQTMK/31840/mpegts
+#EXTINF:0 group-title="ES",MTV
+http://byxeqgvr.megatv.fun/iptv/5KLVA2TCEWQTMK/31841/mpegts
+#EXTINF:0 group-title="ES",Real Madrid TV
+http://byxeqgvr.megatv.fun/iptv/5KLVA2TCEWQTMK/31847/mpegts
 #EXTINF:11,BBC One EMidHD
 http://176.65.153.4:4001/play/a08i/index.m3u8
 #EXTINF:0,BBC One EastHD
