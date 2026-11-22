@@ -553,215 +553,467 @@ http://176.65.153.4:4007/play/a06e/index.m3u8
 #EXTINF:0,YESTERDAY+1
 http://176.65.153.4:4007/play/a06m/index.m3u8
 
-#EXTINF:-1 ,
-https://www.apsattv.com/rakuten_al.m3u
-#EXTINF:-1 ,
-https://www.apsattv.com/rakuten_at.m3u
-#EXTINF:-1 ,
-https://www.apsattv.com/rakuten_be.m3u
-#EXTINF:-1 ,
-https://www.apsattv.com/rakuten_bg.m3u
-#EXTINF:-1 ,
-https://www.apsattv.com/rakuten_ch.m3u
-#EXTINF:-1 ,
-https://www.apsattv.com/rakuten_cz.m3u
-#EXTINF:-1 ,
-https://www.apsattv.com/rakuten_de.m3u
-#EXTINF:-1 ,
-https://www.apsattv.com/rakuten_dk.m3u
-#EXTINF:-1 ,
-https://www.apsattv.com/rakuten_ee.m3u
-#EXTINF:-1 ,
-https://www.apsattv.com/rakuten_es.m3u
-#EXTINF:-1 ,
-https://www.apsattv.com/rakuten_fi.m3u
-#EXTINF:-1 ,
-https://www.apsattv.com/rakuten_fr.m3u
-#EXTINF:-1 ,
-https://www.apsattv.com/rakuten_gr.m3u
-#EXTINF:-1 ,
-https://www.apsattv.com/rakuten_hr.m3u
-#EXTINF:-1 ,
-https://www.apsattv.com/rakuten_ie.m3u
-#EXTINF:-1 ,
-https://www.apsattv.com/rakuten_it.m3u
-#EXTINF:-1 ,
-https://www.apsattv.com/rakuten_lt.m3u
-#EXTINF:-1 ,
-https://www.apsattv.com/rakuten_nl.m3u
-#EXTINF:-1 ,
-https://www.apsattv.com/rakuten_no.m3u
-#EXTINF:-1 ,
-https://www.apsattv.com/rakuten_pl.m3u
-#EXTINF:-1 ,
-https://www.apsattv.com/rakuten_pt.m3u
-#EXTINF:-1 ,
-https://www.apsattv.com/rakuten_ro.m3u
-#EXTINF:-1 ,
-https://www.apsattv.com/rakuten_rs.m3u
-#EXTINF:-1 ,
-https://www.apsattv.com/rakuten_se.m3u
-#EXTINF:-1 ,
-https://www.apsattv.com/rakuten_sk.m3u
-#EXTINF:-1 ,
-https://www.apsattv.com/rakuten_uk.m3u
-#EXTINF:-1 ,
-https://www.apsattv.com/distro.m3u
-#EXTINF:-1 ,
-https://www.apsattv.com/vizio.m3u
-#EXTINF:-1 ,
-https://www.apsattv.com/vidaa.m3u
-#EXTINF:-1 ,
-https://www.apsattv.com/orka.m3u
-#EXTINF:-1 ,
-https://www.apsattv.com/kogantvplus.m3u
-#EXTINF:-1 ,
-https://www.apsattv.com/metax.m3u
-#EXTINF:-1 ,
-https://www.apsattv.com/freelivesports.m3u
-#EXTINF:-1 ,
-https://www.apsattv.com/galxytv.m3u
-#EXTINF:-1 ,
-https://www.apsattv.com/localnow.m3u
-#EXTINF:-1 ,
-https://www.apsattv.com/tclplus.m3u
-#EXTINF:-1 ,
-https://www.apsattv.com/hp.m3u
-#EXTINF:-1 ,
-https://www.apsattv.com/igocast.m3u
-#EXTINF:-1 ,
-https://www.apsattv.com/rewardedtv.m3u
-#EXTINF:-1 ,
-https://www.apsattv.com/xumo.m3u
-#EXTINF:-1 ,
-https://www.apsattv.com/cineverse.m3u
-#EXTINF:-1 ,
-https://www.apsattv.com/whaletvplus_all.m3u
-#EXTINF:-1 ,
-https://www.apsattv.com/whaletvplus_us.m3u
-#EXTINF:-1 ,
-https://www.apsattv.com/aelg.m3u
-#EXTINF:-1 ,
-https://www.apsattv.com/arlg.m3u
-#EXTINF:-1 ,
-https://www.apsattv.com/atlg.m3u
-#EXTINF:-1 ,
-https://www.apsattv.com/aulg.m3u
-#EXTINF:-1 ,
-https://www.apsattv.com/belg.m3u
-#EXTINF:-1 ,
-https://www.apsattv.com/brlg.m3u
-#EXTINF:-1 ,
-https://www.apsattv.com/calg.m3u
-#EXTINF:-1 ,
-https://www.apsattv.com/chlg.m3u
-#EXTINF:-1 ,
-https://www.apsattv.com/cllg.m3u
-#EXTINF:-1 ,
-https://www.apsattv.com/colg.m3u
-#EXTINF:-1 ,
-https://www.apsattv.com/delg.m3u
-#EXTINF:-1 ,
-https://www.apsattv.com/dklg.m3u
-#EXTINF:-1 ,
-https://www.apsattv.com/eslg.m3u
-#EXTINF:-1 ,
-https://www.apsattv.com/filg.m3u
-#EXTINF:-1 ,
-https://www.apsattv.com/frlg.m3u
-#EXTINF:-1 ,
-https://www.apsattv.com/gblg.m3u
-#EXTINF:-1 ,
-https://www.apsattv.com/ielg.m3u
-#EXTINF:-1 ,
-https://www.apsattv.com/inlg.m3u
-#EXTINF:-1 ,
-https://www.apsattv.com/itlg.m3u
-#EXTINF:-1 ,
-https://www.apsattv.com/jplg.m3u
-#EXTINF:-1 ,
-https://www.apsattv.com/krlg.m3u
-#EXTINF:-1 ,
-https://www.apsattv.com/lulg.m3u
-#EXTINF:-1 ,
-https://www.apsattv.com/mxlg.m3u
-#EXTINF:-1 ,
-https://www.apsattv.com/nllg.m3u
-#EXTINF:-1 ,
-https://www.apsattv.com/nolg.m3u
-#EXTINF:-1 ,
-https://www.apsattv.com/nzlg.m3u
-#EXTINF:-1 ,
-https://www.apsattv.com/pelg.m3u
-#EXTINF:-1 ,
-https://www.apsattv.com/ptlg.m3u
-#EXTINF:-1 ,
-https://www.apsattv.com/pllg.m3u
-#EXTINF:-1 ,
-https://www.apsattv.com/sglg.m3u
-#EXTINF:-1 ,
-https://www.apsattv.com/selg.m3u
-#EXTINF:-1 ,
-https://www.apsattv.com/uslg.m3u
-#EXTINF:-1 ,
-https://www.apsattv.com/lg.m3u
-#EXTINF:-1 ,
-https://www.apsattv.com/tablo.m3u
-#EXTINF:-1 ,
-https://www.apsattv.com/firetv.m3u
-#EXTINF:-1 ,
-https://www.apsattv.com/veely.m3u
-#EXTINF:-1 ,
-https://www.apsattv.com/tcl.m3u
-#EXTINF:-1 ,
-https://www.apsattv.com/xiaomi.m3u
-#EXTINF:-1 ,
-https://www.apsattv.com/tclbr.m3u
-#EXTINF:-1 ,
-https://www.apsattv.com/rok.m3u
-#EXTINF:-1 ,
-https://www.apsattv.com/sportstv.m3u
-#EXTINF:-1 ,
-https://www.apsattv.com/freemoviesplus.m3u
-#EXTINF:-1 ,
-https://www.apsattv.com/klowd.m3u
-#EXTINF:-1 ,
-https://www.apsattv.com/freetv.m3u
-#EXTINF:-1 ,
-https://www.apsattv.com/zeasn.m3u
-#EXTINF:-1 ,
-https://www.apsattv.com/ssungnz.m3u
-#EXTINF:-1 ,
-https://www.apsattv.com/ssungaus.m3u
-#EXTINF:-1 ,
-https://www.apsattv.com/ssungsg.m3u
-#EXTINF:-1 ,
-https://www.apsattv.com/ssungph.m3u
-#EXTINF:-1 ,
-https://www.apsattv.com/ssungth.m3u
-#EXTINF:-1 ,
-https://www.apsattv.com/ssungbra.m3u
-#EXTINF:-1 ,
-https://www.apsattv.com/ssungmex.m3u
-#EXTINF:-1 ,
-https://www.apsattv.com/ssungnor.m3u
-#EXTINF:-1 ,
-https://www.apsattv.com/ssungfin.m3u
-#EXTINF:-1 ,
-https://www.apsattv.com/ssungden.m3u
-#EXTINF:-1 ,
-https://www.apsattv.com/ssungswe.m3u
-#EXTINF:-1 ,
-https://www.apsattv.com/ssungpor.m3u
-#EXTINF:-1 ,
-https://www.apsattv.com/ssunglux.m3u
-#EXTINF:-1 ,
-https://www.apsattv.com/ssungbelg.m3u
-#EXTINF:-1 ,
-https://www.apsattv.com/ssungire.m3u
-#EXTINF:-1 ,
-https://www.apsattv.com/ssungneth.m3u
+#EXTINF:-1 tvg-name="TGCOM 24" group-title="it",TGCOM 24 HD
+https://n-2-1.eu.cdn-redge.media/livehls/oeu/mt/live/tgcom24/live.livx/playlist.m3u8
+#EXTINF:-1 tvg-name="Mediaset Italia" group-title="it",Mediaset Italia HD
+https://n-2-1.eu.cdn-redge.media/livehls/oeu/mt/live/mediaset_italia/live.livx/playlist.m3u8
+#EXTINF:-1 tvg-name="Mediaset Extra" group-title="it",Mediaset Extra HD
+https://n-2-1.eu.cdn-redge.media/livehls/oeu/mt/live/mediaset_extra/live.livx/playlist.m3u8
+#EXTINF:-1 tvg-name="Rai News 24" group-title="it",Rai News 24 HD
+https://n-2-1.eu.cdn-redge.media/livehls/oeu/mt/live/rai_news_24/live.livx/playlist.m3u8
 
+----------------------------------------------------------------------------------------
+
+#EXTINF:-1 tvg-name="Rai Storia" group-title="it",Rai Storia HD
+https://n-2-1.eu.cdn-redge.media/livehls/oeu/mt/live/rai_storia/live.livx/playlist.m3u8
+#EXTINF:-1 tvg-name="Rai Scuola" group-title="it",Rai Scuola HD
+https://n-2-1.eu.cdn-redge.media/livehls/oeu/mt/live/rai_scuola/live.livx/playlist.m3u8
+#EXTINF:-1 tvg-name="Italia 1" group-title="it",Italia 1 HD
+https://n-2-1.eu.cdn-redge.media/livehls/oeu/mt/live/italia_1/live.livx/playlist.m3u8
+#EXTINF:-1 tvg-name="Rete 4" group-title="it",Rete 4 HD
+https://n-2-1.eu.cdn-redge.media/livehls/oeu/mt/live/rete_4/live.livx/playlist.m3u8
+#EXTINF:-1 tvg-name="Canale 5" group-title="it",Canale 5 HD
+https://n-2-1.eu.cdn-redge.media/livehls/oeu/mt/live/canale_5/live.livx/playlist.m3u8
+#EXTINF:-1 tvg-name="Rai Yoyo" group-title="it",Rai Yoyo HD
+https://n-2-1.eu.cdn-redge.media/livehls/oeu/mt/live/rai_yoyo/live.livx/playlist.m3u8
+#EXTINF:-1 tvg-name="La 7" group-title="it",La 7 HD
+https://n-2-1.eu.cdn-redge.media/livehls/oeu/mt/live/la_7/live.livx/playlist.m3u8
+#EXTINF:-1 tvg-name="TV Art Live" group-title="it",TV Art Live HD
+https://n-2-1.eu.cdn-redge.media/livehls/oeu/mt/live/tv_art_live/live.livx/playlist.m3u8
+#EXTINF:-1 tvg-name="Eurosport [it]" group-title="it",Eurosport [it] HD
+https://n-2-1.eu.cdn-redge.media/livehls/oeu/mt/live/eurosport_1_it/live.livx/playlist.m3u8
+#EXTINF:-1 tvg-name="Eurosport 2 [it]" group-title="it",Eurosport 2 [it] HD
+https://n-2-1.eu.cdn-redge.media/livehls/oeu/mt/live/eurosport_2_it/live.livx/playlist.m3u8
+#EXTINF:-1 tvg-name="BBC Four" group-title="uk",BBC Four HD
+https://n-2-1.eu.cdn-redge.media/livehls/oeu/mt/live/bbc_four/live.livx/playlist.m3u8
+#EXTINF:-1 tvg-name="Channel 4" group-title="uk",Channel 4 HD
+https://n-2-1.eu.cdn-redge.media/livehls/oeu/mt/live/channel_4/live.livx/playlist.m3u8
+#EXTINF:-1 tvg-name="BBC News" group-title="uk",BBC News HD
+https://n-2-1.eu.cdn-redge.media/livehls/oeu/mt/live/bbc_news/live.livx/playlist.m3u8
+#EXTINF:-1 tvg-name="Bloomberg" group-title="uk",Bloomberg HD
+https://n-2-1.eu.cdn-redge.media/livehls/oeu/mt/live/bloomberg/live.livx/playlist.m3u8
+#EXTINF:-1 tvg-name="CGTN News" group-title="uk",CGTN News HD
+https://n-2-1.eu.cdn-redge.media/livehls/oeu/mt/live/cgtn_news/live.livx/playlist.m3u8
+#EXTINF:-1 tvg-name="NHK World Japan" group-title="uk",NHK World Japan HD
+https://n-2-1.eu.cdn-redge.media/livehls/oeu/mt/live/nhk_world_japan/live.livx/playlist.m3u8
+#EXTINF:-1 tvg-name="Eurosport [uk]" group-title="uk",Eurosport [uk] HD
+https://n-2-1.eu.cdn-redge.media/livehls/oeu/mt/live/eurosport_1_en/live.livx/playlist.m3u8
+#EXTINF:-1 tvg-name="Eurosport 2 [uk]" group-title="uk",Eurosport 2 [uk] HD
+https://n-2-1.eu.cdn-redge.media/livehls/oeu/mt/live/eurosport_2_en/live.livx/playlist.m3u8
+#EXTINF:-1 tvg-name="FightBox" group-title="uk",FightBox HD
+https://n-2-1.eu.cdn-redge.media/livehls/oeu/mt/live/fightbox/live.livx/playlist.m3u8
+#EXTINF:-1 tvg-name="Gametoon" group-title="uk",Gametoon HD
+https://n-2-1.eu.cdn-redge.media/livehls/oeu/mt/live/gametoon/live.livx/playlist.m3u8
+#EXTINF:-1 tvg-name="CNBC" group-title="uk",CNBC HD
+https://n-2-1.eu.cdn-redge.media/livehls/oeu/mt/live/cnbc/live.livx/playlist.m3u8
+#EXTINF:-1 tvg-name="Sky News" group-title="uk",Sky News HD
+https://n-2-1.eu.cdn-redge.media/livehls/oeu/mt/live/sky_news/live.livx/playlist.m3u8
+#EXTINF:-1 tvg-name="CNN" group-title="uk",CNN HD
+https://n-2-1.eu.cdn-redge.media/livehls/oeu/mt/live/cnn/live.livx/playlist.m3u8
+#EXTINF:-1 tvg-name="Comedy Central [uk]" group-title="uk",Comedy Central [uk] HD
+https://n-2-1.eu.cdn-redge.media/livehls/oeu/mt/live/comedy_central_en/live.livx/playlist.m3u8
+#EXTINF:-1 tvg-name="ARTE [de]" group-title="de",ARTE [de] HD
+https://n-2-1.eu.cdn-redge.media/livehls/oeu/mt/live/arte_de/live.livx/playlist.m3u8
+#EXTINF:-1 tvg-name="Deutsche Welle" group-title="de",Deutsche Welle HD
+https://n-2-1.eu.cdn-redge.media/livehls/oeu/mt/live/deutsche_welle/live.livx/playlist.m3u8
+#EXTINF:-1 tvg-name="Das Erste" group-title="de",Das Erste HD
+https://n-2-1.eu.cdn-redge.media/livehls/oeu/mt/live/das_erste/live.livx/playlist.m3u8
+#EXTINF:-1 tvg-name="3 Sat" group-title="de",3 Sat HD
+https://n-2-1.eu.cdn-redge.media/livehls/oeu/mt/live/3sat/live.livx/playlist.m3u8
+#EXTINF:-1 tvg-name="RTL" group-title="de",RTL HD
+https://n-2-1.eu.cdn-redge.media/livehls/oeu/mt/live/rtl/live.livx/playlist.m3u8
+#EXTINF:-1 tvg-name="RTLZWEI [ch]" group-title="de",RTLZWEI [ch] HD
+https://n-2-1.eu.cdn-redge.media/livehls/oeu/mt/live/rtlzwei_ch/live.livx/playlist.m3u8
+#EXTINF:-1 tvg-name="Kabel Eins [de]" group-title="de",Kabel Eins SD
+https://n-2-1.eu.cdn-redge.media/livehls/oeu/mt/live/kabel_eins/live.livx/playlist.m3u8
+#EXTINF:-1 tvg-name="Super RTL" group-title="de",Super RTL HD
+https://n-2-1.eu.cdn-redge.media/livehls/oeu/mt/live/superrtl/live.livx/playlist.m3u8
+#EXTINF:-1 tvg-name="Pro 7" group-title="de",Pro 7 HD
+https://n-2-1.eu.cdn-redge.media/livehls/oeu/mt/live/pro_7/live.livx/playlist.m3u8
+#EXTINF:-1 tvg-name="Kika" group-title="de",Kika HD
+https://n-2-1.eu.cdn-redge.media/livehls/oeu/mt/live/kika/live.livx/playlist.m3u8
+#EXTINF:-1 tvg-name="ZDF" group-title="de",ZDF HD
+https://n-2-1.eu.cdn-redge.media/livehls/oeu/mt/live/zdf/live.livx/playlist.m3u8
+#EXTINF:-1 tvg-name="ZDF info" group-title="de",ZDF info HD
+https://n-2-1.eu.cdn-redge.media/livehls/oeu/mt/live/zdfinfo/live.livx/playlist.m3u8
+#EXTINF:-1 tvg-name="ZDF neo" group-title="de",ZDF neo HD
+https://n-2-1.eu.cdn-redge.media/livehls/oeu/mt/live/zdfneo/live.livx/playlist.m3u8
+#EXTINF:-1 tvg-name="SRF info" group-title="de",SRF info HD
+https://n-2-1.eu.cdn-redge.media/livehls/oeu/mt/live/srf_info/live.livx/playlist.m3u8
+#EXTINF:-1 tvg-name="Kabel 1" group-title="de",Kabel 1 HD
+https://n-2-1.eu.cdn-redge.media/livehls/oeu/mt/live/kabel_1/live.livx/playlist.m3u8
+#EXTINF:-1 tvg-name="Sport 1" group-title="de",Sport 1 HD
+https://n-2-1.eu.cdn-redge.media/livehls/oeu/mt/live/sport_1/live.livx/playlist.m3u8
+#EXTINF:-1 tvg-name="Comedy Central [de]" group-title="de",Comedy Central [de] HD
+https://n-2-1.eu.cdn-redge.media/livehls/oeu/mt/live/comedy_central_de/live.livx/playlist.m3u8
+#EXTINF:-1 tvg-name="BVN" group-title="int",BVN HD
+https://n-2-1.eu.cdn-redge.media/livehls/oeu/mt/live/bvn/live.livx/playlist.m3u8
+#EXTINF:-1 tvg-name="ORF 2 Europe" group-title="int",ORF 2 Europe HD
+https://n-2-1.eu.cdn-redge.media/livehls/oeu/mt/live/orf_2_europe/live.livx/playlist.m3u8
+#EXTINF:-1 tvg-name="TVP Polonia" group-title="int",TVP Polonia HD
+https://n-2-1.eu.cdn-redge.media/livehls/oeu/mt/live/tvp_polonia/live.livx/playlist.m3u8
+#EXTINF:-1 tvg-name="TV Romania International" group-title="int",TV Romania International HD
+https://n-2-1.eu.cdn-redge.media/livehls/oeu/mt/live/tv_romania_international/live.livx/playlist.m3u8
+#EXTINF:-1 tvg-name="TVE" group-title="int",TVE HD
+https://n-2-1.eu.cdn-redge.media/livehls/oeu/mt/live/tve/live.livx/playlist.m3u8
+#EXTINF:-1 tvg-name="CGTN [es]" group-title="int",CGTN [es] HD
+https://n-2-1.eu.cdn-redge.media/livehls/oeu/mt/live/cgtn_es/live.livx/playlist.m3u8
+#EXTINF:-1 tvg-name="TRT Turk" group-title="int",TRT Turk HD
+https://n-2-1.eu.cdn-redge.media/livehls/oeu/mt/live/trt_turk/live.livx/playlist.m3u8
+#EXTINF:-1 tvg-name="Freedom" group-title="int",Freedom HD
+https://n-2-1.eu.cdn-redge.media/livehls/oeu/mt/live/freedom/live.livx/playlist.m3u8
+#EXTINF:-1 tvg-name="CCTV 4" group-title="int",CCTV 4 HD
+https://n-2-1.eu.cdn-redge.media/livehls/oeu/mt/live/cctv_4/live.livx/playlist.m3u8
+#EXTINF:-1 tvg-name="France 24 [ar]" group-title="int",France 24 [ar] HD
+https://n-2-1.eu.cdn-redge.media/livehls/oeu/mt/live/france_24_ar/live.livx/playlist.m3u8
+#EXTINF:-1 tvg-name="MBC Masr" group-title="int",MBC Masr HD
+https://n-2-1.eu.cdn-redge.media/livehls/oeu/mt/live/mbc_masr/live.livx/playlist.m3u8
+#EXTINF:-1 tvg-name="Canal Algerie" group-title="int",Canal Algerie HD
+https://n-2-1.eu.cdn-redge.media/livehls/oeu/mt/live/canal_algerie/live.livx/playlist.m3u8
+#EXTINF:-1 tvg-name="Al Arabiya" group-title="int",Al Arabiya HD
+https://n-2-1.eu.cdn-redge.media/livehls/oeu/mt/live/al_arabiya/live.livx/playlist.m3u8
+#EXTINF:-1 tvg-name="LBC SAT" group-title="int",LBC SAT HD
+https://n-2-1.eu.cdn-redge.media/livehls/oeu/mt/live/lbc_sat/live.livx/playlist.m3u8
+#EXTINF:-1 tvg-name="Al Jadeed" group-title="int",Al Jadeed HD
+https://n-2-1.eu.cdn-redge.media/livehls/oeu/mt/live/al_jadeed/live.livx/playlist.m3u8
+#EXTINF:-1 tvg-name="Rotana Cinema" group-title="int",Rotana Cinema HD
+https://n-2-1.eu.cdn-redge.media/livehls/oeu/mt/live/rotana_cinema/live.livx/playlist.m3u8
+#EXTINF:-1 tvg-name="Rotana Cinema" group-title=",Rotana Cinema SD
+https://n-2-1.eu.cdn-redge.media/livehls/oeu/mt/live/rotana_cinema/live.livx/playlist.m3u8
+#EXTINF:-1 tvg-name="Rotana Mousica" group-title="int",Rotana Mousica HD
+https://n-2-1.eu.cdn-redge.media/livehls/oeu/mt/live/rotana_music/live.livx/playlist.m3u8
+#EXTINF:-1 tvg-name="Rotana Clip" group-title="int",Rotana Clip HD
+https://n-2-1.eu.cdn-redge.media/livehls/oeu/mt/live/rotana_clip/live.livx/playlist.m3u8
+#EXTINF:-1 tvg-name="Rotana Classic" group-title="int",Rotana Classic HD
+https://n-2-1.eu.cdn-redge.media/livehls/oeu/mt/live/rotana_classic/live.livx/playlist.m3u8
+#EXTINF:-1 tvg-name="MTV Lebanon" group-title="int",MTV Lebanon HD
+https://n-2-1.eu.cdn-redge.media/livehls/oeu/mt/live/mtv_lebanon/live.livx/playlist.m3u8
+
+#EXTINF:-1 tvg-name="France 2" group-title="fr",France 2 HD
+https://n-2-1.eu.cdn-redge.media/livehls/oeu/mt/live/france_2/live.livx/playlist.m3u8
+#EXTINF:-1 tvg-name="France 3" group-title="fr",France 3 HD
+https://n-2-1.eu.cdn-redge.media/livehls/oeu/mt/live/france_3/live.livx/playlist.m3u8
+#EXTINF:-1 tvg-name="France 3" group-title="fr",France 3 nc HD
+https://n-2-1.eu.cdn-redge.media/livehls/oeu/mt/live/france_3_nice/live.livx/playlist.m3u8
+#EXTINF:-1 tvg-name="France 4" group-title="fr",France 4 HD
+https://n-2-1.eu.cdn-redge.media/livehls/oeu/mt/live/france_4/live.livx/playlist.m3u8
+#EXTINF:-1 tvg-name="France 5" group-title="fr",France 5 HD
+https://n-2-1.eu.cdn-redge.media/livehls/oeu/mt/live/france_5/live.livx/playlist.m3u8
+#EXTINF:-1 tvg-name="13eme Rue" group-title="fr",13eme Rue HD
+https://n-2-1.eu.cdn-redge.media/livehls/oeu/mt/live/13eme_rue/live.livx/playlist.m3u8
+#EXTINF:-1 tvg-name="RTL9" group-title="fr",RTL9 HD
+https://n-2-1.eu.cdn-redge.media/livehls/oeu/mt/live/rtl_9/live.livx/playlist.m3u8
+#EXTINF:-1 tvg-name="TV_Breizh" group-title="fr",TV_Breizh HD
+https://n-2-2.eu.cdn-redge.media/livehls/oeu/mt/live/tv_breizh/live.livx/playlist.m3u8
+#EXTINF:-1 tvg-name="Comédie+" group-title="fr",Comédie+
+https://n-2-1.eu.cdn-redge.media/livehls/oeu/mt/live/comedie/live.livx/playlist.m3u8
+#EXTINF:-1 tvg-name="Comédy Central" group-title="fr",Comédy Central
+https://r.eu.cdn-redge.media/livehls/oeu/mt/live/comedy_central/live.livx/playlist.m3u8
+#EXTINF:-1 tvg-name="Action" group-title="fr",Action
+https://n-2-1.eu.cdn-redge.media/livehls/oeu/mt/live/action/live.livx/playlist.m3u8
+#EXTINF:-1 tvg-name="Paris Première" group-title="fr",Paris Première HD
+https://n-2-1.eu.cdn-redge.media/livehls/oeu/mt/live/paris_premiere/live.livx/playlist.m3u8
+#EXTINF:-1 tvg-name="Série Club" group-title="fr",Série Club HD
+https://n-2-1.eu.cdn-redge.media/livehls/oeu/mt/live/serie_club/live.livx/playlist.m3u8
+#EXTINF:-1 tvg-name="TF1 Séries Films HD" group-title="fr",TF1 Séries Films HD
+https://n-2-1.eu.cdn-redge.media/livehls/oeu/mt/live/tf1_series_films/live.livx/playlist.m3u8
+#EXTINF:-1 tvg-name="6ter" group-title="fr",6ter HD
+https://n-2-1.eu.cdn-redge.media/livehls/oeu/mt/live/6ter_fr/live.livx/playlist.m3u8
+#EXTINF:-1 tvg-name="Novo 19" group-title="fr",Novo 19
+https://n-2-1.eu.cdn-redge.media/livehls/oeu/mt/live/novo_19/live.livx/playlist.m3u8
+#EXTINF:-1 tvg-name="Ciné+ Classic" group-title="fr",Ciné+ Classic
+https://n-2-1.eu.cdn-redge.media/livehls/oeu/mt/live/cine_classic/live.livx/playlist.m3u8
+#EXTINF:-1 tvg-name="Ciné+ Émotion" group-title="fr",Ciné+ Émotion
+https://n-2-1.eu.cdn-redge.media/livehls/oeu/mt/live/cine_emotion/live.livx/playlist.m3u8
+#EXTINF:-1 tvg-name="Cine+ Family" group-title="fr",Cine+ Family HD
+https://n-2-1.eu.cdn-redge.media/livehls/oeu/mt/live/cine_family/live.livx/playlist.m3u8
+#EXTINF:-1 tvg-name="Cine+ Festival" group-title="fr",Cine+ Festival HD
+https://n-2-1.eu.cdn-redge.media/livehls/oeu/mt/live/cine_festival/live.livx/playlist.m3u8
+#EXTINF:-1 tvg-name="Planete+ Aventure" group-title="fr",Planete+ Aventure HD
+https://n-2-1.eu.cdn-redge.media/livehls/oeu/mt/live/planete_aventure/live.livx/playlist.m3u8
+#EXTINF:-1 tvg-name="Planète+" group-title="fr",Planète+
+https://n-2-1.eu.cdn-redge.media/livehls/oeu/mt/live/planete/live.livx/playlist.m3u8
+#EXTINF:-1 tvg-name="Warner TV Next" group-title="fr",Warner TV Next HD
+https://n-2-1.eu.cdn-redge.media/livehls/oeu/mt/live/warner_tv_next/live.livx/playlist.m3u8
+#EXTINF:-1 tvg-name="Syfy" group-title="fr",Syfy HD
+https://n-2-1.eu.cdn-redge.media/livehls/oeu/mt/live/syfy/live.livx/playlist.m3u8
+#EXTINF:-1 tvg-name="Arte" group-title="fr",Arte HD
+https://n-2-1.eu.cdn-redge.media/livehls/oeu/mt/live/arte_fr/live.livx/playlist.m3u8
+#EXTINF:-1 tvg-name="Téva" group-title="fr",Téva HD
+https://n-2-1.eu.cdn-redge.media/livehls/oeu/mt/live/teva/live.livx/playlist.m3u8
+#EXTINF:-1 tvg-name="AB1" group-title="fr",AB1 HD
+https://n-2-1.eu.cdn-redge.media/livehls/oeu/mt/live/ab1/live.livx/playlist.m3u8
+#EXTINF:-1 tvg-name="TCM Cinéma" group-title="fr",TCM Cinéma
+https://n-2-1.eu.cdn-redge.media/livehls/oeu/mt/live/tcm/live.livx/playlist.m3u8
+#EXTINF:-1 tvg-name="TF1" group-title="fr",TF1 HD
+https://n-2-1.eu.cdn-redge.media/livehls/oeu/mt/live/tf1/live.livx/playlist.m3u8
+#EXTINF:-1 tvg-name="TFX" group-title="fr",TFX HD
+https://n-2-1.eu.cdn-redge.media/livehls/oeu/mt/live/tfx/live.livx/playlist.m3u8
+#EXTINF:-1 tvg-name="TMC" group-title="fr",TMC
+https://n-2-1.eu.cdn-redge.media/livehls/oeu/mt/live/tmc_fr/live.livx/playlist.m3u8
+#EXTINF:-1 tvg-name="MCM" group-title="fr",MCM
+https://n-2-1.eu.cdn-redge.media/livehls/oeu/mt/live/mcm/live.livx/playlist.m3u8
+#EXTINF:-1 tvg-name="M6" group-title="fr",M6 HD
+https://n-2-1.eu.cdn-redge.media/livehls/oeu/mt/live/m6_fr/live.livx/playlist.m3u8
+#EXTINF:-1 tvg-name="W9" group-title="fr",W9 HD
+https://n-2-1.eu.cdn-redge.media/livehls/oeu/mt/live/w9_fr/live.livx/playlist.m3u8
+#EXTINF:-1 tvg-name="BET" group-title="fr",BET
+https://n-2-1.eu.cdn-redge.media/livehls/oeu/mt/live/bet/live.livx/playlist.m3u8
+#EXTINF:-1 tvg-name="Ushuaia TV" group-title="fr",Ushuaia TV HD
+https://n-2-1.eu.cdn-redge.media/livehls/oeu/mt/live/ushuaia/live.livx/playlist.m3u8
+#EXTINF:-1 tvg-name="Seasons" group-title="fr",Seasons HD
+https://n-2-1.eu.cdn-redge.media/livehls/oeu/mt/live/seasons/live.livx/playlist.m3u8
+#EXTINF:-1 tvg-name="OCS" group-title="fr",OCS HD
+https://n-2-1.eu.cdn-redge.media/livehls/oeu/mt/live/ocs/live.livx/playlist.m3u8
+#EXTINF:-1 tvg-name="KTO TV" group-title="fr",KTO TV
+https://n-2-1.eu.cdn-redge.media/livehls/oeu/mt/live/kto_tv/live.livx/playlist.m3u8
+#EXTINF:-1 tvg-name="English Club TV" group-title="fr",English Club TV HD
+https://n-2-1.eu.cdn-redge.media/livehls/oeu/mt/live/english_club_tv/live.livx/playlist.m3u8
+#EXTINF:-1 tvg-name="RMC Story" group-title="fr",RMC Story HD
+https://n-2-1.eu.cdn-redge.media/livehls/oeu/mt/live/rmc_story/live.livx/playlist.m3u8
+#EXTINF:-1 tvg-name="RMC Découverte" group-title="fr",RMC Découverte
+https://n-2-1.eu.cdn-redge.media/livehls/oeu/mt/live/rmc_decouverte/live.livx/playlist.m3u8
+#EXTINF:-1 tvg-name="Science & Vie TV" group-title="fr",Science & Vie TV
+https://n-2-1.eu.cdn-redge.media/livehls/oeu/mt/live/science_et_vie/live.livx/playlist.m3u8
+#EXTINF:-1 tvg-name="Chérie 25" group-title="fr",Chérie 25
+https://n-2-1.eu.cdn-redge.media/livehls/oeu/mt/live/cherie_25/live.livx/playlist.m3u8
+#EXTINF:-1 tvg-name="Discovery Channel" group-title="fr",Discovery Channel
+https://n-2-1.eu.cdn-redge.media/livehls/oeu/mt/live/discovery_channel/live.livx/playlist.m3u8
+#EXTINF:-1 tvg-name="Animaux" group-title="fr",Animaux HD
+https://n-2-1.eu.cdn-redge.media/livehls/oeu/mt/live/animaux/live.livx/playlist.m3u8
+#EXTINF:-1 tvg-name="Chasse & Pêche" group-title="fr",Chasse & Pêche HD
+https://n-2-1.eu.cdn-redge.media/livehls/oeu/mt/live/chasse_et_peche/live.livx/playlist.m3u8
+#EXTINF:-1 tvg-name="Histoire TV" group-title="fr",Histoire TV
+https://n-2-1.eu.cdn-redge.media/livehls/oeu/mt/live/histoire/live.livx/playlist.m3u8
+#EXTINF:-1 tvg-name="Nautical" group-title="fr",Nautical HD
+https://n-2-1.eu.cdn-redge.media/livehls/oeu/mt/live/nautical/live.livx/playlist.m3u8
+#EXTINF:-1 tvg-name="Toute l'Histoire (720p)" group-title="fr",Toute l'Histoire (720p)
+https://n-2-1.eu.cdn-redge.media/livehls/oeu/mt/live/toute_lhistoire/live.livx/playlist.m3u8
+#EXTINF:-1 tvg-name="Crime District" group-title="fr",Crime District
+https://n-2-1.eu.cdn-redge.media/livehls/oeu/mt/live/crime_district/live.livx/playlist.m3u8
+#EXTINF:-1 tvg-name="Ciné+ Frisson" group-title="fr",Ciné+ Frisson
+https://n-2-1.eu.cdn-redge.media/livehls/oeu/mt/live/cine_frisson/live.livx/playlist.m3u8
+#EXTINF:-1 tvg-name="Public Sénat - LCP" group-title="fr",Public Sénat - LCP
+https://n-2-1.eu.cdn-redge.media/livehls/oeu/mt/live/lcp/live.livx/playlist.m3u8
+#EXTINF:-1 tvg-name="E! HD " group-title="fr",E! HD
+https://n-2-2.eu.cdn-redge.media/livehls/oeu/mt/live/e_fr/live.livx/playlist.m3u8
+#EXTINF:-1 tvg-name="LCI HD " group-title="fr",LCI HD
+https://n-2-1.eu.cdn-redge.media/livehls/oeu/mt/live/lci/live.livx/playlist.m3u8
+#EXTINF:-1 tvg-name="Luxe TV 4K" group-title="fr",Luxe TV 4K HD
+https://n-2-1.eu.cdn-redge.media/livehls/oeu/mt/live/luxe_tv_4k/live.livx/playlist.m3u8
+#EXTINF:-1 tvg-name="Museum TV" group-title="fr",Museum TV HD
+https://n-2-1.eu.cdn-redge.media/livehls/oeu/mt/live/museum/live.livx/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="beIN Sports 1 FR" group-title="Spor",beIN Sports 1 FR HD
+https://n-2-1.eu.cdn-redge.media/livehls/oeu/mt/live/bein_sports_1_fr/live.livx/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="beIN Sports 2 FR" group-title="Spor",beIN Sports 2 FR HD
+https://n-2-1.eu.cdn-redge.media/livehls/oeu/mt/live/bein_sports_2_fr/live.livx/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="beIN Sports 3 FR" group-title="Spor",beIN Sports 3 FR HD
+https://n-2-1.eu.cdn-redge.media/livehls/oeu/mt/live/bein_sports_3_fr/live.livx/playlist.m3u8
+
+----------------------------------------------------------------------------------------------
+#EXTINF:-1 tvg-name="Infosport+" group-title="fr",Infosport+ HD
+https://n-2-1.eu.cdn-redge.media/livehls/oeu/mt/live/infosport/live.livx/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Trace_Sport_Stars HD FR" group-title="Spor",Trace_Sport_Stars HD
+https://n-2-1.eu.cdn-redge.media/livehls/oeu/mt/live/trace_sport_stars/live.livx/playlist.m3u8
+#EXTINF:-1 tvg-name="Eurosport 1" group-title="fr",Eurosport 1 HD
+https://n-2-1.eu.cdn-redge.media/livehls/oeu/mt/live/eurosport_1/live.livx/playlist.m3u8
+#EXTINF:-1 tvg-name="Eurosport 2" group-title="fr",Eurosport 2 HD
+https://n-2-1.eu.cdn-redge.media/livehls/oeu/mt/live/eurosport_2/live.livx/playlist.m3u8
+#EXTINF:-1 tvg-name="Automoto HD" group-title="fr",Automoto HD
+https://n-2-1.eu.cdn-redge.media/livehls/oeu/mt/live/automoto/live.livx/playlist.m3u8
+#EXTINF:-1 tvg-name="L'Équipe" group-title="fr",L'Équipe
+https://n-2-1.eu.cdn-redge.media/livehls/oeu/mt/live/l_equipe/live.livx/playlist.m3u8
+#EXTINF:-1 tvg-name="Motorvision TV" group-title="fr",Motorvision TV HD
+https://n-2-1.eu.cdn-redge.media/livehls/oeu/mt/live/motorvision_fr/live.livx/playlist.m3u8
+#EXTINF:-1 tvg-name="MGGTV" group-title="fr",MGGTV HD
+https://n-2-1.eu.cdn-redge.media/livehls/oeu/mt/live/mgg_tv/live.livx/playlist.m3u8
+#EXTINF:-1 tvg-name="Equidia" group-title="fr",Equidia HD
+https://n-2-1.eu.cdn-redge.media/livehls/oeu/mt/live/equidia/live.livx/playlist.m3u8
+#EXTINF:-1 tvg-name="Game One" group-title="fr",Game One
+https://n-2-1.eu.cdn-redge.media/livehls/oeu/mt/live/game_one/live.livx/playlist.m3u8
+#EXTINF:-1 tvg-name="MTV" group-title="fr",MTV HD
+https://n-2-1.eu.cdn-redge.media/livehls/oeu/mt/live/mtv/live.livx/playlist.m3u8
+#EXTINF:-1 tvg-name="CStar" group-title="fr",CStar
+https://n-2-1.eu.cdn-redge.media/livehls/oeu/mt/live/cstar/live.livx/playlist.m3u8
+#EXTINF:-1 tvg-name="M6 Music Hits" group-title="fr",M6 Music Hits HD
+https://n-2-1.eu.cdn-redge.media/livehls/oeu/mt/live/m6_music_hits/live.livx/playlist.m3u8
+#EXTINF:-1 tvg-name="MCMTop" group-title="fr",MCMTop
+https://n-2-1.eu.cdn-redge.media/livehls/oeu/mt/live/mcm_top/live.livx/playlist.m3u8
+#EXTINF:-1 tvg-name="Melody" group-title="fr",Melody
+https://n-2-1.eu.cdn-redge.media/livehls/oeu/mt/live/melody/live.livx/playlist.m3u8
+#EXTINF:-1 tvg-name="Mezzo" group-title="fr",Mezzo HD
+https://n-2-1.eu.cdn-redge.media/livehls/oeu/mt/live/mezzo/live.livx/playlist.m3u8
+#EXTINF:-1 tvg-name="Mezzo Live" group-title="fr",Mezzo Live HD
+https://n-2-1.eu.cdn-redge.media/livehls/oeu/mt/live/mezzo_live/live.livx/playlist.m3u8
+#EXTINF:-1 tvg-name="MyZen TV" group-title="fr",MyZen TV
+https://n-2-1.eu.cdn-redge.media/livehls/oeu/mt/live/myzen_tv/live.livx/playlist.m3u8
+#EXTINF:-1 tvg-name="Stingray Classica" group-title="fr",Stingray Classica HD
+https://n-2-1.eu.cdn-redge.media/livehls/oeu/mt/live/stingray_classica/live.livx/playlist.m3u8
+#EXTINF:-1 tvg-name="Nickelodeon " group-title="fr",Nickelodeon HD
+https://n-2-1.eu.cdn-redge.media/livehls/oeu/mt/live/nickelodeon/live.livx/playlist.m3u8
+#EXTINF:-1 tvg-name="Nickelodeon Junior" group-title="fr",Nickelodeon Junior
+https://n-2-1.eu.cdn-redge.media/livehls/oeu/mt/live/nickelodeon_junior/live.livx/playlist.m3u8
+#EXTINF:-1 tvg-name="Nicktoons" group-title="fr",Nicktoons
+https://n-2-1.eu.cdn-redge.media/livehls/oeu/mt/live/nicktoons/live.livx/playlist.m3u8
+#EXTINF:-1 tvg-name="Tiji" group-title="fr",Tiji
+https://n-2-1.eu.cdn-redge.media/livehls/oeu/mt/live/tiji/live.livx/playlist.m3u8
+#EXTINF:-1 tvg-name="Boomerang" group-title="fr",Boomerang
+https://n-2-1.eu.cdn-redge.media/livehls/oeu/mt/live/boomerang_fr/live.livx/playlist.m3u8
+#EXTINF:-1 tvg-name="Gulli" group-title="fr",Gulli
+https://n-2-1.eu.cdn-redge.media/livehls/oeu/mt/live/gulli/live.livx/playlist.m3u8
+#EXTINF:-1 tvg-name="Mangas" group-title="fr",Mangas
+https://n-2-1.eu.cdn-redge.media/livehls/oeu/mt/live/mangas/live.livx/playlist.m3u8
+#EXTINF:-1 tvg-name="Télétoon+" group-title="fr",Télétoon+
+https://n-2-1.eu.cdn-redge.media/livehls/oeu/mt/live/teletoon/live.livx/playlist.m3u8
+#EXTINF:-1 tvg-name="Cartoon Network" group-title="fr",Cartoon Network HD
+https://n-2-1.eu.cdn-redge.media/livehls/oeu/mt/live/cartoon_network/live.livx/playlist.m3u8
+#EXTINF:-1 tvg-name="Cartoonito" group-title="fr",Cartoonito HD
+https://n-2-1.eu.cdn-redge.media/livehls/oeu/mt/live/cartoonito_fr/live.livx/playlist.m3u8
+#EXTINF:-1 tvg-name="T18" group-title="fr",T18
+https://n-2-1.eu.cdn-redge.media/livehls/oeu/mt/live/t18/live.livx/playlist.m3u8
+#EXTINF:-1 tvg-name="BFM TV" group-title="fr",BFM TV
+https://n-2-1.eu.cdn-redge.media/livehls/oeu/mt/live/bfm_tv/live.livx/playlist.m3u8
+#EXTINF:-1 tvg-name="RFM TV" group-title="fr",RFM TV
+https://n-2-1.eu.cdn-redge.media/livehls/oeu/mt/live/rfm_tv/live.livx/playlist.m3u8
+#EXTINF:-1 tvg-name="France Info" group-title="fr",France Info
+https://n-2-1.eu.cdn-redge.media/livehls/oeu/mt/live/france_info/live.livx/playlist.m3u8
+#EXTINF:-1 tvg-name="TV5 Monde FBS" group-title="fr",TV5 Monde FBS
+https://n-2-1.eu.cdn-redge.media/livehls/oeu/mt/live/tv5_monde_fbs/live.livx/playlist.m3u8
+#EXTINF:-1 tvg-name="Euronews FR" group-title="fr",Euronews FR
+https://n-2-1.eu.cdn-redge.media/livehls/oeu/mt/live/euronews_fr/live.livx/playlist.m3u8
+#EXTINF:-1 tvg-name="CNews" group-title="fr",CNews
+https://n-2-1.eu.cdn-redge.media/livehls/oeu/mt/live/cnews/live.livx/playlist.m3u8
+#EXTINF:-1 tvg-name="France 3 National" group-title="fr",France 3 National HD
+https://n-2-1.eu.cdn-redge.media/livehls/oeu/mt/live/france_3_national/live.livx/playlist.m3u8
+#EXTINF:-1 tvg-name="Canal+" group-title="fr",Canal+ HD
+https://n-2-1.eu.cdn-redge.media/livehls/oeu/mt/live/canal_plus/live.livx/playlist.m3u8
+#EXTINF:-1 tvg-name="Monaco Info" group-title="fr",Monaco Info HD
+https://n-2-1.eu.cdn-redge.media/livehls/oeu/mt/live/monaco_info/live.livx/playlist.m3u8
+#EXTINF:-1 tvg-name="TV Monaco" group-title="fr",TV Monaco HD
+https://n-2-1.eu.cdn-redge.media/livehls/oeu/mt/live/tv_monaco/live.livx/playlist.m3u8
+#EXTINF:-1 tvg-name="TV5 Monde" group-title="fr",TV5 Monde HD
+https://n-2-1.eu.cdn-redge.media/livehls/oeu/mt/live/tv5_monde/live.livx/playlist.m3u8
+#EXTINF:-1 tvg-name="France 3 Cote d'Azur" group-title="fr",France 3 Cote d'Azur HD
+https://n-2-1.eu.cdn-redge.media/livehls/oeu/mt/live/france_3_cote_d_azur/live.livx/playlist.m3u8
+#EXTINF:-1 tvg-name="BFM Business" group-title="fr",BFM Business HD
+https://n-2-1.eu.cdn-redge.media/livehls/oeu/mt/live/bfm_business/live.livx/playlist.m3u8
+#EXTINF:-1 tvg-name="France 24" group-title="fr",France 24 HD
+https://n-2-1.eu.cdn-redge.media/livehls/oeu/mt/live/france_24_fr/live.livx/playlist.m3u8
+#EXTINF:-1 tvg-name="CGTN" group-title="fr",CGTN HD
+https://n-2-1.eu.cdn-redge.media/livehls/oeu/mt/live/cgtn/live.livx/playlist.m3u8
+#EXTINF:-1 tvg-name="Eurochannel" group-title="fr",Eurochannel HD
+https://n-2-1.eu.cdn-redge.media/livehls/oeu/mt/live/eurochannel/live.livx/playlist.m3u8
+#EXTINF:-1 tvg-name="Pitchoun TV" group-title="fr",Pitchoun TV HD
+https://n-2-1.eu.cdn-redge.media/livehls/oeu/mt/live/pitchoun_tv/live.livx/playlist.m3u8
+#EXTINF:-1 tvg-name="Canal J" group-title="fr",Canal J HD
+https://n-2-1.eu.cdn-redge.media/livehls/oeu/mt/live/canal_j/live.livx/playlist.m3u8
+
+#EXTINF:-1 group-title="CANAIS GERAIS",Stingray Classica (1080p)
+https://lotus.stingray.com/manifest/classica-cla008-montreal/samsungtvplus/master.m3u8
+#EXTINF:-1 group-title="CANAIS GERAIS",Stingray Country Greats (1080p)
+https://lotus.stingray.com/manifest/ose-109ads-montreal/samsungtvplus/master.m3u8
+#EXTINF:-1 group-title="CANAIS GERAIS",Stingray Cozy Cafe (1080p)
+https://aka-live1050.delivery.roku.com/372c813e-1fb9-41d4-a4d0-5fbd803659c5/t2-origin/out/v1/live.m3u8
+#EXTINF:-1 group-title="CANAIS GERAIS",Stingray Easy Listening (1080p)
+https://lotus.stingray.com/manifest/ose-137ads-montreal/samsungtvplus/master.m3u8
+#EXTINF:-1 group-title="CANAIS GERAIS",Stingray DJAZZ (1080p)
+https://lotus.stingray.com/manifest/djazz-djaads-montreal/samsungtvplus/master.m3u8
+#EXTINF:-1 group-title="CANAIS GERAIS",Stingray Euro Hits (1080p)
+https://lotus.stingray.com/manifest/ose-214ads-montreal/samsungtvplus/master.m3u8
+#EXTINF:-1 group-title="CANAIS GERAIS",Stingray Franco Country (1080p)
+https://lotus.stingray.com/manifest/ose-010ads-montreal/samsungtvplus/master.m3u8
+#EXTINF:-1 group-title="CANAIS GERAIS",Stingray Greatest Holiday Hits
+https://d39g1vxj2ef6in.cloudfront.net/v1/manifest/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod-rakuten-stitched/54947915-6504-4548-aaef-eabd451f8607/1.m3u8
+#EXTINF:-1 group-title="CANAIS GERAIS",Stingray Hip Hop R&B (1080p)
+https://lotus.stingray.com/manifest/ose-133ads-montreal/samsungtvplus/master.m3u8
+#EXTINF:-1 group-title="CANAIS GERAIS",Stingray Epoca Dorada Del Cine Mexicano (1080p)
+https://lotus.stingray.com/manifest/ose-219ads-montreal/samsungtvplus/master.m3u8
+#EXTINF:-1 group-title="CANAIS GERAIS",Stingray Fado Classics (1080p)
+https://lotus.stingray.com/manifest/ose-346ads-montreal/samsungtvplus/master.m3u8
+#EXTINF:-1 group-title="CANAIS GERAIS",Stingray Hot Country (1080p)
+https://lotus.stingray.com/manifest/ose-108ads-montreal/samsungtvplus/master.m3u8
+#EXTINF:-1 group-title="CANAIS GERAIS",Stingray Hitlist (1080p)
+https://d39g1vxj2ef6in.cloudfront.net/v1/master/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod-rakuten-stitched/master.m3u8?ads.xumo_channelId=88883054
+#EXTINF:-1 group-title="CANAIS GERAIS",Stingray Greatest Hits (1080p)
+https://d39g1vxj2ef6in.cloudfront.net/v1/master/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod-rakuten-stitched/master.m3u8?ads.xumo_channelId=88883053
+#EXTINF:-1 group-title="CANAIS GERAIS",Stingray Flashback 70s (1080p)
+https://lotus.stingray.com/manifest/ose-115ads-montreal/samsungtvplus/master.m3u8
+#EXTINF:-1 group-title="CANAIS GERAIS",Stingray Franco Pop (1080p)
+https://lotus.stingray.com/manifest/ose-013ads-montreal/samsungtvplus/master.m3u8
+#EXTINF:-1 group-title="CANAIS GERAIS",Stingray Jukebox Oldies (1080p)
+https://lotus.stingray.com/manifest/ose-021ads-montreal/samsungtvplus/master.m3u8
+#EXTINF:-1 group-title="CANAIS GERAIS",Stingray Franco Retro (1080p)
+https://lotus.stingray.com/manifest/ose-043ads-montreal/samsungtvplus/master.m3u8
+#EXTINF:-1 group-title="CANAIS GERAIS",Stingray Greatest Hits (1080p)
+https://lotus.stingray.com/manifest/ose-455ads-montreal/samsungtvplus/master.m3u8
+#EXTINF:-1 group-title="CANAIS GERAIS",Stingray Karaoke (1080p)
+https://lotus.stingray.com/manifest/karaoke-kar000-montreal/samsungtvplus/master.m3u8
+#EXTINF:-1 group-title="CANAIS GERAIS",Stingray Exitos Regional Mexicanos (1080p)
+https://lotus.stingray.com/manifest/ose-226ads-montreal/samsungtvplus/master.m3u8
+#EXTINF:-1 group-title="CANAIS GERAIS",Stingray Green Noise (1080p)
+https://lotus.stingray.com/manifest/ose-815ads-montreal/samsungtvplus/master.m3u8
+#EXTINF:-1 group-title="CANAIS GERAIS",Stingray Holiday Hits (1080p)
+https://lotus.stingray.com/manifest/ose-155ads-montreal/samsungtvplus/master.m3u8
+#EXTINF:-1 group-title="CANAIS GERAIS",Stingray Hit List (1080p)
+https://lotus.stingray.com/manifest/ose-107ads-montreal/samsungtvplus/master.m3u8
+#EXTINF:-1 group-title="CANAIS GERAIS",Stingray MPB (1080p)
+https://lotus.stingray.com/manifest/ose-204ads-montreal/samsungtvplus/master.m3u8
+#EXTINF:-1 group-title="CANAIS GERAIS",Stingray le Palmares (1080p)
+https://lotus.stingray.com/manifest/ose-060ads-montreal/samsungtvplus/master.m3u8
+#EXTINF:-1 group-title="CANAIS GERAIS",Stingray Italo Disco (1080p)
+https://lotus.stingray.com/manifest/ose-311ads-montreal/samsungtvplus/master.m3u8
+#EXTINF:-1 group-title="CANAIS GERAIS",Stingray Naturescape (1080p)
+https://d39g1vxj2ef6in.cloudfront.net/v1/master/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod-rakuten-stitched/master.m3u8?ads.xumo_channelId=88883056
+#EXTINF:-1 group-title="CANAIS GERAIS",Stingray Pop Adult (1080p)
+https://lotus.stingray.com/manifest/ose-104ads-montreal/samsungtvplus/master.m3u8
+#EXTINF:-1 group-title="CANAIS GERAIS",Stingray Nostalgie (1080p)
+https://lotus.stingray.com/manifest/ose-014ads-montreal/samsungtvplus/master.m3u8
+#EXTINF:-1 group-title="CANAIS GERAIS",Stingray Peaceful Piano (1080p)
+https://lotus.stingray.com/manifest/ose-807ads-montreal/samsungtvplus/master.m3u8
+#EXTINF:-1 group-title="CANAIS GERAIS",Stingray Remember the 80s
+https://d39g1vxj2ef6in.cloudfront.net/v1/manifest/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod-rakuten-stitched/68cc5f97-cf6c-4ff7-9125-f56f272dbcb6/1.m3u8
+#EXTINF:-1 group-title="CANAIS GERAIS",Stingray Naturescape (1080p)
+https://lotus.stingray.com/manifest/naturescape-a003-montreal/samsungtvplus/master.m3u8
+#EXTINF:-1 group-title="CANAIS GERAIS",Stingray Pop Mexicano 80s (1080p)
+https://lotus.stingray.com/manifest/ose-218ads-montreal/samsungtvplus/master.m3u8
+#EXTINF:-1 group-title="CANAIS GERAIS",Stingray Soccer Anthems (1080p)
+https://lotus.stingray.com/manifest/ose-347ads-montreal/samsungtvplus/master.m3u8
+#EXTINF:-1 group-title="CANAIS GERAIS",Stingray Nothin' But 90s (1080p)
+https://lotus.stingray.com/manifest/ose-142ads-montreal/samsungtvplus/master.m3u8
+#EXTINF:-1 group-title="CANAIS GERAIS",Stingray Thai Pop (1080p)
+https://lotus.stingray.com/manifest/ose-314ads-montreal/samsungtvplus/master.m3u8
+#EXTINF:-1 group-title="CANAIS GERAIS",Stingray The Spa (1080p)
+https://lotus.stingray.com/manifest/ose-122ads-montreal/samsungtvplus/master.m3u8
+#EXTINF:-1 group-title="CANAIS GERAIS",Stingray Today's KPOP (1080p)
+https://lotus.stingray.com/manifest/ose-317ads-montreal/samsungtvplus/master.m3u8
+#EXTINF:-1 group-title="CANAIS GERAIS",Stingray Y2K (1080p)
+https://lotus.stingray.com/manifest/ose-232ads-montreal/samsungtvplus/master.m3u8
+#EXTINF:-1 group-title="CANAIS GERAIS",Stargate
+https://jmp2.uk/plu-693bf37b75432d022c85ef01.m3u8
+#EXTINF:-1 group-title="CANAIS GERAIS",Stingray Reggaeton (1080p)
+https://lotus.stingray.com/manifest/ose-176ads-montreal/samsungtvplus/master.m3u8
+#EXTINF:-1 group-title="CANAIS GERAIS",Stingray Remember the 80s (1080p)
+https://lotus.stingray.com/manifest/ose-128ads-montreal/samsungtvplus/master.m3u8
+#EXTINF:-1 group-title="CANAIS GERAIS",Stingray Remember the 80s (1080p)
+https://d39g1vxj2ef6in.cloudfront.net/v1/master/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod-rakuten-stitched/master.m3u8?ads.xumo_channelId=88883071
+#EXTINF:-1 group-title="CANAIS GERAIS",Stingray Romance Latino (1080p)
+https://lotus.stingray.com/manifest/ose-202ads-montreal/samsungtvplus/master.m3u8
+#EXTINF:-1 group-title="CANAIS GERAIS",Stingray Soft Hits (1080p)
+https://lotus.stingray.com/manifest/ose-237ads-montreal/samsungtvplus/master.m3u8
+#EXTINF:-1 group-title="CANAIS GERAIS",Stingray Rock Alternative (1080p)
+https://lotus.stingray.com/manifest/ose-102ads-montreal/samsungtvplus/master.m3u8
+#EXTINF:-1 group-title="CANAIS GERAIS",Stingray TikTok Radio (1080p)
+https://lotus.stingray.com/manifest/ose-185ads-montreal/samsungtvplus/master.m3u8
+#EXTINF:-1 group-title="CANAIS GERAIS",Stingray Souvenirs (1080p)
+https://lotus.stingray.com/manifest/ose-012ads-montreal/samsungtvplus/master.m3u8
+#EXTINF:-1 group-title="CANAIS GERAIS",Stingray ZenLIFE (1080p)
+https://lotus.stingray.com/manifest/zenlife-zen001-montreal/samsungtvplus/master.m3u8
+#EXTINF:-1 group-title="CANAIS GERAIS",Stingray Today's Latin Pop (1080p)
+https://lotus.stingray.com/manifest/ose-190ads-montreal/samsungtvplus/master.m3u8
+#EXTINF:-1 group-title="CANAIS GERAIS",Stingray Soul Storm (1080p)
+https://lotus.stingray.com/manifest/ose-134ads-montreal/samsungtvplus/master.m3u8
+#EXTINF:-1 group-title="CANAIS GERAIS",Stingray Smooth Jazz (1080p)
+https://lotus.stingray.com/manifest/ose-140ads-montreal/samsungtvplus/master.m3u8
 
 #EXTINF:-1 group-title="♥18+", Кино 18+
 https://autopilot.catcast.tv/content/40381/index.m3u8
