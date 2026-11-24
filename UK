@@ -561,8 +561,7 @@ http://176.65.153.4:4007/play/a06g/index.m3u8
 http://176.65.153.4:4007/play/a06i/index.m3u8
 #EXTINF:0,YESTERDAY
 http://176.65.153.4:4007/play/a06e/index.m3u8
-#EXTINF:0,YESTERDAY+1
-http://176.65.153.4:4007/play/a06m/index.m3u8
+
 
 #EXTINF:-1 tvg-name="TGCOM 24" group-title="it",TGCOM 24 HD
 https://n-2-1.eu.cdn-redge.media/livehls/oeu/mt/live/tgcom24/live.livx/playlist.m3u8
