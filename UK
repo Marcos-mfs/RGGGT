@@ -40,6 +40,17 @@ http://198.204.228.26/live/cctv4k.m3u8
 #EXTINF:0 group-title="CN",CCTV 8K
 http://198.204.228.26/live/cctv8k.m3u8
 
+#EXTINF:6,CBS
+https://edge.candyshop.st/live3/F116/index.m3u8?st=gBVDLfVcCHcoTgIgDJM1OA&e=1795537328
+#EXTINF:6,CBS
+https://cdnlivetv.tv/secure/api/v1/6add40af2d4a99e07363cf91/playlist.m3u8?token=NmFkZDQwYWYyZDRhOTllMDczNjNjZjkxOjE3OTU1NDEwMTk5MDI6Y2RubGl2ZXR2LnR2OjIxZmM0MjRkOGI3ZDMyNDguNDc1NThmYWNkMTc1NjFiY2ZhNzRhNmZkOGQ3YjY4OGY1MDM4YjI1NTJiY2VjZjRkMmQzN2E0Yzk2NTE1YmQ1MQ
+#EXTINF:6,ABC
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/N4VZ3P323BFNP98S9CT9QA5B/1087/index.m3u8
+#EXTINF:6,ABC WKBW-TV
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/N4VZ3P323BFNP98S9CT9QA5B/6507/index.m3u8
+#EXTINF:6,NBC
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/N4VZ3P323BFNP98S9CT9QA5B/1081/index.m3u8
+
 #EXTINF:6,NBS
 #EXTVLCOPT:network-caching=1000
 https://media.joycorp.co.kr:4443/live/live_720p/playlist.m3u8
